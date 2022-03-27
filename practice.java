@@ -8,6 +8,7 @@ public class gayass {
 
         String Bruh = "\n press A to continue: ";
 
+        System.out.println("\n Hello");
         System.out.println(Prologue + Bruh);
 
         String progress = sc.nextLine();
